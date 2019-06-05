@@ -39,10 +39,6 @@ header h1{
     padding-left:290px;
 }
 
-.mesActivites{
-    display: flex;
-}
-
 nav{
     width: 250px;
     display: block;
