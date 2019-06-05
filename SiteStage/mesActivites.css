@@ -1,0 +1,186 @@
+#mesActivites{
+    font-family: sans-serif, Arial;
+    color: black;
+  
+    width: 1000px;
+    font-size: 0.8em;
+    margin: 0 auto;
+    display: block;
+    border:5px solid black;
+    background-color: white  ;
+}
+
+.mesActivites h1 {
+    border-bottom: 2px solid  #FF4C26;
+    color:#CE1C4C  ;
+}
+
+header{
+    height: 100px;
+    border-bottom: 2px solid  #FF4C26;
+    color:#CE1C4C  ;
+    
+}
+
+footer{
+    border-top:2px;
+    border-top:  2px solid  #FF4C26 ;
+    margin: 5px;
+  
+    margin-bottom:30px;
+    height: 100px;
+}
+
+header h1{
+    color: rgb (119,167,36);
+    font-size: 3em;
+    padding: 0px 0px 0px 100px;
+    padding-top: 20px; 
+    padding-left:290px;
+}
+
+.mesActivites{
+    display: flex;
+}
+
+nav{
+    width: 250px;
+    display: block;
+    font-size: 1.3em ;
+    width: 250px;
+    
+}
+
+nav ul li{
+    background-color: #FF4C26 ;
+    color:#CE1C4C;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+  
+}
+
+section{
+    width: 700px;
+    position:left;
+}
+
+article{
+    padding: 20px;
+    margin-left:5px;
+    margin-right: 5px;
+    text-justify: auto;
+ 
+    background-position: center;
+    padding-left: 50px;
+
+}
+
+article h1 h2{
+    color: rgb (89,114,60);
+    font-size: 1.3em;
+    font-family: sans-serif, italique;
+    border-bottom: 1px solid rgb (119,167,36);
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+body{
+    background-color: #FFB6A5  ;   ;
+    
+}
+
+.java{
+    margin-left: 100px;
+}
+
+.demo{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.arbo{
+    margin-left: 250px;
+}
+.accueil{
+    width: 650px;
+    margin-left: 30px;
+    
+}
+
+.mesActivites{
+    width: 650px;
+    margin-left: 30px;
+}
+
+.mesActivites2{
+    width: 650px;
+    margin-left: 30px;
+
+}
+
+.CssPageAccueil{
+    width: 400px;
+    margin-left: 180px;
+}
+
+.CssPageAccueil2{
+    width: 400px;
+    margin-left: 180px;
+}
+
+.CssPageAccueil3{
+    width: 400px;
+    margin-left: 180px;
+}
+
+.CssMesActivites{
+    width: 400px;
+    margin-left: 180px;
+}
+
+
+.CssMesActivites2{
+    width: 400px;
+    margin-left: 180px;
+}
+
+.AperçuJs1{
+    width: 700px; 
+    border: 2px solid #9F2BCA;
+}
+
+.AperçuJs2{
+    width: 700px;  
+    border: 2px solid #9F2BCA;
+}
+
+.Maquette{
+    width: 700px;   
+}
+
+.PageSemaines{
+    margin-left: 250px;
+    
+}
+
+.repertoire{
+    width: 700px;  
+}
+
+.adresseClone{
+    width: 400px;  
+    margin-left: 150px;
+}
+
+
+.terminal{
+    width: 800px;  
+}
