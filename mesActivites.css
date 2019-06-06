@@ -43,7 +43,7 @@ nav{
     width: 250px;
     display: block;
     font-size: 1.3em ;
-    width: 250px;
+    width: auto;
     margin:auto;
     
 }
@@ -62,7 +62,7 @@ nav ul li a {
 }
 
 section{
-    width: 700px;
+    width: auto;
     position:left;
     display: block;
     margin:auto;
