@@ -1,9 +1,9 @@
 
 #mesActivites{
-    font-family: sans-serif, Arial;
+    font-family:'Open sans', sans-serif;
     color: black;
     width: 1000px;
-    font-size: 0.8em;
+    font-size:1em;
     margin: 0 auto;
     display: block;
     border:5px solid black;
@@ -52,23 +52,45 @@ nav{
     display: block;
     font-size: 1.3em ;
     width: auto;
-    vertical-align: top;
-    margin:auto; 
-    
+    margin:auto;
+    padding: 10px;
+    height: 40px;  
+}
+
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: auto;
+    display: block;
+    width: 950px;
 }
 
 nav ul li{
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    float: left;
+
+}
+
+nav ul li a {
     background-color: #FF4C26 ;
-    color:#CE1C4C;
+
     padding: 5px;
     margin: 5px;
     border-radius: 10px;
     display: block;
+    width: 110px;
+    float: left;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
 }
 
-nav ul li a {
-    text-decoration: none;
-    display: block;
+nav ul li a:hover {
+    background-color: rgb(2o55, 89, 38) ;
+    color:rgba(255, 255, 255, 0.877);
 }
 
 section{
@@ -76,110 +98,38 @@ section{
     position:left;
     display: block;
     margin:auto;
-    background-color: yellow 
+    width: 700px;
 }
 
 article{
-    padding: 20px;
-    margin-left:5px;
-    margin-right: 5px;
     text-justify: auto;
     background-position: center;
-    padding-left: 50px;
 
 }
 
-article h1 h2{
+article h1, h2{
     color: rgb (89,114,60);
     font-size: 1.3em;
     font-family: sans-serif, italique;
     border-bottom: 1px solid rgb (119,167,36);
 }
 
-nav ul{
-    list-style-type: none;
-    padding: 0px;
-}
 
 body{
     background-color: #FFB6A5 ;
-    
 }
 
-.java{
-    margin-left: 100px;
+section img 
+{
+    max-width: 600px;
+    margin: auto;
+    display: block;
 }
 
-.demo{
-    width: 500px;
-    margin-left: 100px;
+section embed
+{
+    display: block;
+    margin: 10px auto;
+    width: 700px;
+    height: 500px;
 }
-
-.arbo{
-    margin-left: 250px;
-}
-.accueil{
-    width: 650px;
-    margin-left: 30px;
-    
-}
-
-.CssPageAccueil{
-    width: 400px;
-    margin-left: 180px;
-}
-
-.CssPageAccueil2{
-    width: 400px;
-    margin-left: 180px;
-}
-
-.CssPageAccueil3{
-    width: 400px;
-    margin-left: 180px;
-}
-
-.CssMesActivites{
-    width: 400px;
-    margin-left: 180px;
-}
-
-
-.CssMesActivites2{
-    width: 400px;
-    margin-left: 180px;
-}
-
-.AperuJs1{
-    width: 700px; 
-    border: 2px solid #9F2BCA;
-}
-
-.AperuJs2{
-    width: 700px;  
-    border: 2px solid #9F2BCA;
-}
-
-.Maquette{
-    width: 700px;   
-}
-
-.PageSemaines{
-    margin-left: 250px;
-    
-}
-
-.repertoire{
-    width: 700px;  
-}
-
-.adresseClone{
-    width: 400px;  
-    margin-left: 150px;
-}
-
-
-.adresseAcoller{
-    width: 
-mesActivites.css
-Affichage de mesActivites.css en cours...
