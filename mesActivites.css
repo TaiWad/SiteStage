@@ -44,6 +44,7 @@ nav{
     display: block;
     font-size: 1.3em ;
     width: 250px;
+    margin:auto;
     
 }
 
@@ -63,6 +64,8 @@ nav ul li a {
 section{
     width: 700px;
     position:left;
+    display: block;
+    margin:auto;
 }
 
 article{
