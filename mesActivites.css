@@ -1,18 +1,74 @@
+
+Conversation ouverte. 1 message non lu.
+
+Aller au contenu
+Utiliser Gmail avec un lecteur d'écran
+Activez les notifications de bureau pour Gmail.
+   OK  Non, merci
+
+2 sur 196
+Fwd: Delivery Status Notification (Failure)
+Boîte de réception
+x
+
+Romain Roucou
+Pièces jointes 
+09:18 (il y a 1 heure)
+À moi
+
+   
+Traduire le message
+Désactiver pour : anglais
+
+
+---------- Forwarded message ---------
+De : Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Date: mer. 5 juin 2019 à 16:36
+Subject: Delivery Status Notification (Failure)
+To: <roucouromain@gmail.com>
+
+
+Icône Erreur
+Adresse introuvable
+Votre message n'est pas parvenu à t.taibi59@gmail.com, car l'adresse est introuvable ou ne peut pas recevoir de messages.
+EN SAVOIR PLUS
+La réponse était :
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser b199sor10872476wme.28 - gsmtp
+
+
+
+
+---------- Forwarded message ----------
+From: Romain Roucou <roucouromain@gmail.com>
+To: t.taibi59@gmail.com
+Cc: 
+Bcc: 
+Date: Wed, 5 Jun 2019 16:36:02 +0200
+Subject: css
+GG mec !
+Zone contenant les pièces jointes
+
 #mesActivites{
     font-family: sans-serif, Arial;
     color: black;
-  
     width: 1000px;
     font-size: 0.8em;
     margin: 0 auto;
     display: block;
     border:5px solid black;
-    background-color: white  ;
+    background-color: white;
 }
 
 .mesActivites h1 {
     border-bottom: 2px solid  #FF4C26;
     color:#CE1C4C  ;
+}
+
+
+.mesActivites
+{
+    display: block;
+    margin: auto;
 }
 
 header{
@@ -26,7 +82,6 @@ footer{
     border-top:2px;
     border-top:  2px solid  #FF4C26 ;
     margin: 5px;
-  
     margin-bottom:30px;
     height: 100px;
 }
@@ -39,12 +94,14 @@ header h1{
     padding-left:290px;
 }
 
+
+
 nav{
-    width: 250px;
-    display: block;
+
+    display: inline-block;
     font-size: 1.3em ;
-    width: auto;
-    margin:auto;
+    width: 250px;
+    vertical-align: top;
     
 }
 
@@ -62,10 +119,9 @@ nav ul li a {
 }
 
 section{
-    width: auto;
+    width: 700px;
     position:left;
-    display: block;
-    margin:auto;
+    display: inline-block;
 }
 
 article{
@@ -73,7 +129,6 @@ article{
     margin-left:5px;
     margin-right: 5px;
     text-justify: auto;
- 
     background-position: center;
     padding-left: 50px;
 
@@ -92,7 +147,7 @@ nav ul{
 }
 
 body{
-    background-color: #FFB6A5  ;   ;
+    background-color: #FFB6A5 ;
     
 }
 
@@ -112,17 +167,6 @@ body{
     width: 650px;
     margin-left: 30px;
     
-}
-
-.mesActivites{
-    width: 650px;
-    margin-left: 30px;
-}
-
-.mesActivites2{
-    width: 650px;
-    margin-left: 30px;
-
 }
 
 .CssPageAccueil{
@@ -151,12 +195,12 @@ body{
     margin-left: 180px;
 }
 
-.AperçuJs1{
+.AperuJs1{
     width: 700px; 
     border: 2px solid #9F2BCA;
 }
 
-.AperçuJs2{
+.AperuJs2{
     width: 700px;  
     border: 2px solid #9F2BCA;
 }
@@ -181,5 +225,6 @@ body{
 
 
 .adresseAcoller{
-    width: 800px;  
-}
+    width: 
+mesActivites.css
+Affichage de mesActivites.css en cours...
