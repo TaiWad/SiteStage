@@ -131,6 +131,7 @@ section iframe
     margin: auto;
     width: 700px;
     border: 0px;
+    height: 500px;
 }
 
 .footer{
@@ -167,9 +168,23 @@ section iframe
 .footer .follow-us ul li
 {
     display: inline-block;
-    width: 20px;
-    color: #151515
+    margin-right: 10px;
+    color: #151515;
+    
 }
+.footer .follow-us ul li a
+{
+    color:  #FF4C26;
+    text-decoration: none;
+    border: 1px solid #000;
+    border-radius: 50%;
+    padding: 7px;
+    background-color: #000000;
+    text-align: center;
+    height: 45px;
+    width: 45px;
+}
+
 
 footer p{
     display: block;
