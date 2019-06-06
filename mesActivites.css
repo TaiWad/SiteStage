@@ -134,6 +134,7 @@ section embed
     margin-bottom:30px;
     height: 100px;
     display: flex;
+    color:white;
 } 
 
 .footer .contact-us
