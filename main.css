@@ -29,14 +29,6 @@ header{
     
 }
 
-footer{
-    border-top:2px;
-    border-top:  2px solid  #FF4C26 ;
-    margin: 5px;
-    margin-bottom:30px;
-    height: 100px;
-}
-
 header h1{
     color: rgb (119,167,36);
     font-size: 3em;
@@ -81,7 +73,7 @@ nav ul li a {
     margin: 5px;
     border-radius: 10px;
     display: block;
-    width: 150px;
+    width: 10px;
     float: left;
     color: #fff;
     text-decoration: none;
@@ -132,3 +124,19 @@ section embed
     width: 700px;
     height: 500px;
 }
+
+section iframe
+{
+    display: block; 
+    margin: auto;
+    width: 700px;
+    border: 0px;
+}
+
+footer{
+    border-top:2px;
+    border-top:  2px solid  #FF4C26 ;
+    margin: 5px;
+    margin-bottom:30px;
+    height: 100px;
+} 
