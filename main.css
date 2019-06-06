@@ -151,6 +151,11 @@ section iframe
     text-align: center;
 }
 
+.footer .contact-us span
+{
+    margin-bottom: 20px;
+}
+
 .footer .follow-us
 {
     flex: 200px;
