@@ -136,7 +136,7 @@ section iframe
 .footer{
     border-top:2px;
     
-    margin: 5px;
+    margin: 25px;
     margin-bottom:30px;
     height: 100px;
     display: flex;
@@ -197,3 +197,4 @@ footer p{
     padding: 15px;
     text-align: center;
 }
+

@@ -11,8 +11,8 @@
 }
 
 .mesActivites h1 {
-    border-bottom: 2px solid  #FF4C26;
-    color:#CE1C4C  ;
+    border-bottom: 2px solid  steelblue;
+    color:black ;
 }
 
 
@@ -32,7 +32,6 @@ header{
 
 
 header h1{
-    color: rgb (119,167,36);
     font-size: 3em;
     padding: 0px 0px 0px 100px;
     padding-top: 20px; 
@@ -109,8 +108,14 @@ article h1, h2{
 
 
 body{
-    background-color: #FFB6A5 ;
+    background-image: url('Images/code.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
 }
+
 
 section img 
 {
@@ -129,12 +134,12 @@ section embed
 
 .footer{
     border-top:2px;
-    border-top:  2px solid  #FF4C26 ;
-    margin: 5px;
+    
+    margin: 25px;
     margin-bottom:30px;
     height: 100px;
     display: flex;
-    color:white;
+    color: white;
 } 
 
 .footer .contact-us
@@ -142,6 +147,11 @@ section embed
     flex: 200px;
     background-color: rgb(28, 111, 206);
     text-align: center;
+}
+
+.footer .contact-us span
+{
+    margin-bottom: 20px;
 }
 
 .footer .follow-us
@@ -163,12 +173,12 @@ section embed
 {
     display: inline-block;
     margin-right: 10px;
-    color: #151515;
+    color: #ffffff;
     
 }
 .footer .follow-us ul li a
 {
-    color:  #FF4C26;
+    color:  rgb(255, 255, 255);
     text-decoration: none;
     border: 1px solid #000;
     border-radius: 50%;
