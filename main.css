@@ -82,6 +82,7 @@ section{
     display: block;
     margin:auto;
     width: 700px;
+    margin-bottom: 20px;
 }
 
 article{
@@ -198,3 +199,8 @@ footer p{
     text-align: center;
 }
 
+.retour
+{
+    text-decoration: none;
+    margin:400px;
+}
